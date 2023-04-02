@@ -1,0 +1,63 @@
+React interview questions:
+
+1)How to integrate react with angular and vue js
+-bable
+
+2)React Fiber how it improves performance.
+React Fiber is aimed at improving the perceived performance for complex React applications. It does so by allowing React to break the limits of the call stack. This lets it pause or start rendering work whenever required.
+
+3)How to create animations in react js
+ReactJS - Animations
+Step 1 - Install React CSS Transitions Group. This is React add-on used for creating basic CSS transitions and animations. ...
+Step 2 - Add a CSS file. Let's create a new file style. ...
+Step 3 - Appear Animation. We will create a basic React component. ...
+Step 4 - Enter and Leave Animations.
+
+
+
+4)controlled and uncontrolled components in react js
+In a controlled component, form data is handled by a React component. The alternative is uncontrolled components, where form data is handled by the DOM itself. To write an uncontrolled component, instead of writing an event handler for every state update, you can use a ref to get form values from the DOM.
+
+5)what is flux in react
+Flux is a pattern for managing how data flows through a React application. As we've seen, the preferred method of working with React components is through passing data from one parent component to it's children components. The Flux pattern makes this model the default method for handling data.
+
+6)View in redux?
+
+7)React core type?
+
+8)Why we use react,Features of react
+
+9)Feature of react router
+React Router is a JavaScript framework that lets us handle client and server-side routing in React applications. It enables the creation of single-page web or mobile apps that allow navigating without refreshing the page. It also allows us to use browser history features while preserving the right application view.
+
+10)Can we return jsx inside jsx 
+How to write JSX inside JSX?
+To add JavaScript code inside JSX, we need to write it in curly brackets like this: const App = () => { const number = 10; return ( <div> <p>Number: {number}</p> </div> ); };
+
+
+11)Can browsers read jsx,why not
+No, JSX files cannot be read directly by browsers. It can only read objects that JavaScript provides. Now, a JSX file needs to be converted using JSX transformers into a JavaScript object before it can be loaded into the browser and used in the pipeline.
+
+What is render in react
+In React, Render is the technique that can redirect a page with the help of function render(). Most importantly, render a function we can use to define the HTML code within the HTML element. It helps to display certain views in the UI
+
+
+
+
+Ajio: mostly javascript questions
+->promises, hoisting,
+
+execution context: 
+There are two types of execution contexts: global and function. The global execution context is created when a JavaScript script first starts to run, and it represents the global scope in JavaScript. A function execution context is created whenever a function is called, representing the function's local scope.
+
+
+setTimeout, setInterval,
+
+polymer
+Polymer. js is a JavaScript library created by Google that allows reusing the HTML elements for building applications with components. Polymer is an open-source JavaScript library developed by Google developers and was initially released on May 27, 2015. The stable release is 1.7.
+
+this keyword,event loop,arrow function...
+
+
+
+
