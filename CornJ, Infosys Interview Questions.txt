@@ -58,6 +58,9 @@ Polymer. js is a JavaScript library created by Google that allows reusing the HT
 
 this keyword,event loop,arrow function...
 
+-> var and let difference
+The difference between let and var is in the scope of the variables they create: Variables declared by let are only available inside the block where they're defined. Variables declared by var are available throughout the function in which they're declared
+
 
 
 
