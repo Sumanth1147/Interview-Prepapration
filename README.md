@@ -10,3 +10,4 @@ Web Layout Best Practices: 12 Timeless UI Patterns Analyzed https://www.toptal.c
 
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/122368378/233249416-06893312-b042-4b8f-aa77-70c7d423e1ca.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/122368378/233249648-404ace3e-8bf4-42e0-bdb7-d11b0db1958c.png)
